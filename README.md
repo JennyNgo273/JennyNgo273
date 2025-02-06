@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jenny Ngo
+- 👋 Hi, I’m Duyen Ngo
 - 👀 I’m interested in Data and coding, specially in Data Analyst
 - 🌱 I have skill on SQL, Excel, DAX, PowerBI, HTML, CSS and currently learning Python for Data Analysis
 - 💞️ I'm actively looking for a job
