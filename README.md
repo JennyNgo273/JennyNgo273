@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jenny Ngo
-- 👀 I’m interested in coding, specially in front-end dev
-- 🌱 I have skill on Java, HTML, CSS, Sass, knowledge about Javascript, jQuery and I’m currently learning React js 
+- 👀 I’m interested in Data and coding, specially in Data Analyst
+- 🌱 I have skill on SQL, Excel, DAX, PowerBI, HTML, CSS and currently learning Python for Data Analysis
 - 💞️ I'm actively looking for a job
 - 📫 Contact me: 
-    Email:myduyen27397@gmail.com
+    Email:jennyngoau@gmail.com
 
 <!---
 JennyNgo273/JennyNgo273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
